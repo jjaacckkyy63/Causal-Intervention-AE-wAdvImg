@@ -1,6 +1,6 @@
 # Causal-Intervention-AE-wAdvImg
 
-When Causal Intervention Meets Image Masking and Adversarial Examples for Deep Neural Networks
+"When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks", ICIP 2019
 
 Chao-Han Huck Yang*, Yi-Chieh Liu*, Pin-Yu Chen, Xiaoli Ma, Yi-Chang James Tsai
 
