@@ -4,7 +4,7 @@
 
 Chao-Han Huck Yang*, Yi-Chieh Liu*, Pin-Yu Chen, Xiaoli Ma, Yi-Chang James Tsai
 
-Georgia Institute of Technology, Atlanta, GA, and IBM Watson Researcj, Yorktown, NY
+Georgia Institute of Technology, Atlanta, GA, and IBM Watson Research, Yorktown, NY
 
 ## Reference by: 
 [PDF](https://arxiv.org/abs/1902.03380) & bib file
