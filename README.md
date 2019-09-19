@@ -2,7 +2,6 @@
 
 "When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks", ICIP 2019
 
-Chao-Han Huck Yang*, Yi-Chieh Liu*, Pin-Yu Chen, Xiaoli Ma, Yi-Chang James Tsai
 
 Georgia Institute of Technology, Atlanta, GA, and IBM Watson Research, Yorktown, NY
 
