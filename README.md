@@ -8,6 +8,7 @@ Georgia Institute of Technology, Atlanta, GA, and IBM Watson Research, Yorktown,
 ## Reference by: 
 [PDF](https://arxiv.org/abs/1902.03380) & bib file
 
+```latex
 @inproceedings{yang2019causal,
   title={When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks},
   author={Yang, Chao-Han Huck and Liu, Yi-Chieh and Chen, Pin-Yu and Ma, Xiaoli and Tsai, Yi-Chang James},
@@ -16,5 +17,5 @@ Georgia Institute of Technology, Atlanta, GA, and IBM Watson Research, Yorktown,
   year={2019},
   organization={IEEE}
 }
-
+```
 ***
