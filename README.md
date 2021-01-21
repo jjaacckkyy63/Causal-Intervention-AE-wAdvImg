@@ -2,6 +2,7 @@
 
 "When Causal Intervention Meets Adversarial Examples and Image Masking for Deep Neural Networks", ICIP 2019
 
+[Slides](https://docs.google.com/presentation/d/14NNlmPBLjKvvWfTFmm7ODZ-rLvi1wUEZXxKvNYdW6zg/edit#slide=id.p){:target="\_blank"}
 
 Georgia Institute of Technology, Atlanta, GA, and IBM Watson Research, Yorktown, NY
 
